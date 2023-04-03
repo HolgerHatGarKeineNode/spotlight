@@ -17,7 +17,7 @@ import logoKetchupMusic                         from '@/images/logos/ketchup_mus
 import logoIbizaliveradio                       from '@/images/logos/ilr.png'
 import logoAffectRecordings                     from '@/images/logos/affect_recordings.jpg'
 import logoBitcoin                              from '@/images/logos/bitcoin.svg'
-import logoNostr                                from '@/images/logos/nostr.svg'
+import logoNostr                                from '@/images/logos/nostr.png'
 import image1                                   from '@/images/photos/image_1.jpg'
 import image2                                   from '@/images/photos/image_2.jpg'
 import image3                                   from '@/images/photos/image_4.jpg'
