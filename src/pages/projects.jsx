@@ -11,23 +11,23 @@ import logoIbizaliveradio from '@/images/logos/ilr.png'
 
 const projects = [
   {
-    name: 'Einundzwanzig Portal',
+    name: 'Einundzwanzig Portal (open source)',
     description:
           'Einundzwanzig Portal is a portal for Bitcoiners to access meetups, events, and other Bitcoin-related'
           + ' information',
     link: {
       href:  'https://portal.einundzwanzig.space',
-      label: 'portal.einundzwanzig.space (open source)'
+      label: 'portal.einundzwanzig.space'
     },
     logo: logoEinundzwanzig,
   },
   {
-    name: 'GeoJSON-helper',
+    name: 'GeoJSON-helper (open source)',
     description:
           'With this tool you can easily find OSM relations and create simplified GeoJSON polygons. This is a Laravel application.',
     link: {
       href:  'https://github.com/HolgerHatGarKeineNode/geojson-helper',
-      label: 'geojson-helper (open source)'
+      label: 'geojson-helper'
     },
     logo: holger,
   },
