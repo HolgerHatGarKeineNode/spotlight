@@ -348,7 +348,7 @@ export default function Home ({ articles }) {
         </title>
         <meta
           name="description"
-          content="I’m Benjamin, a software developer and entrepreneur based in New York City. I’m the founder and CEO of Planetaria, where we develop technologies that empower regular people to explore space on their own terms."
+          content="I’m Benjamin, a software developer and entrepreneur based in Füssen. I’m the founder and CEO of Affekt Digital and Pay2, where we develop technologies that empower people to sell music and other digital goods on their own terms."
         />
       </Head>
       <Container className="mt-9">

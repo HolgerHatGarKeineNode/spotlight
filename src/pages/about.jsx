@@ -47,7 +47,7 @@ export default function About () {
         <title>About - Benjamin Takats</title>
         <meta
           name="description"
-          content="I’m Benjamin Takats. I live in New York City, where I design the future."
+          content="I’m Benjamin Takats. I live in Füssen, where I develop the future."
         />
       </Head>
       <Container className="mt-16 sm:mt-32">
