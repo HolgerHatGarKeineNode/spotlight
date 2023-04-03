@@ -17,7 +17,7 @@ const projects = [
           + ' information',
     link: {
       href:  'https://portal.einundzwanzig.space',
-      label: 'portal.einundzwanzig.space'
+      label: 'portal.einundzwanzig.space (open source)'
     },
     logo: logoEinundzwanzig,
   },
@@ -27,7 +27,7 @@ const projects = [
           'With this tool you can easily find OSM relations and create simplified GeoJSON polygons. This is a Laravel application.',
     link: {
       href:  'https://github.com/HolgerHatGarKeineNode/geojson-helper',
-      label: 'geojson-helper'
+      label: 'geojson-helper (open source)'
     },
     logo: holger,
   },
