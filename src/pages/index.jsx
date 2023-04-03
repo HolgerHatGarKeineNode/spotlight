@@ -367,12 +367,12 @@ export default function Home ({ articles }) {
              aria-label="Follow on Twitter"
              icon={TwitterIcon}
              />*/}
-            <SocialLink
+            {/*<SocialLink
               target="_blank"
               href="https://iris.to/holgerohnenode"
               aria-label="Follow on Nostr"
               icon={NostrIcon}
-            />
+            />*/}
             <SocialLink
               target="_blank"
               href="https://github.com/HolgerHatGarKeineNode"

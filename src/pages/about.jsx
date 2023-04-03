@@ -82,9 +82,9 @@ export default function About () {
           </div>
           <div className="lg:pl-20">
             <ul role="list">
-              <SocialLink href="https://iris.to/holgerohnenode" icon={NostrIcon} className="mt-4">
+              {/*<SocialLink href="https://iris.to/holgerohnenode" icon={NostrIcon} className="mt-4">
                 Follow on Nostr
-              </SocialLink>
+              </SocialLink>*/}
               <SocialLink href="https://github.com/HolgerHatGarKeineNode" icon={GitHubIcon} className="mt-4">
                 Follow on GitHub
               </SocialLink>
