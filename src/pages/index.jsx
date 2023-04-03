@@ -344,7 +344,7 @@ export default function Home ({ articles }) {
     <>
       <Head>
         <title>
-          Benjamin Takats - Software developer, founder, and Bitcoiner
+          Benjamin Takats - Software developer, founder
         </title>
         <meta
           name="description"
