@@ -41,12 +41,12 @@ export default function Uses() {
       >
         <div className="space-y-20">
           <ToolsSection title="Workstation">
-            <Tool title="Asus ROG Strix Laptop">
+            <Tool title="Asus ROG Strix G713QM">
               I’ve been using this laptop for years and it’s still going strong.
-              RAM was upgraded to 64GB, so it’s a beast.
+              RAM was upgraded to 64GB, so it’s a beast. Never had any issues with it.
             </Tool>
             <Tool title="ROG SWIFT PG248Q">
-              Solid gaming monitor. I use it for work and gaming.
+              Solid gaming monitor. I use it for work and gaming. 180Hz refresh rate.
             </Tool>
             <Tool title="Ducky One 3 Series">
               Mechanical keyboard with Cherry MX quiet red switches.
@@ -60,10 +60,10 @@ export default function Uses() {
           </ToolsSection>
           <ToolsSection title="Development tools">
             <Tool title="PHPStorm">
-              JetBrains makes the best IDEs.
+              JetBrains makes the best IDEs. I use Laravel Idea for code completion.
             </Tool>
             <Tool title="Garuda Linux">
-              Linux is the best operating system.
+              Arch Linux is the best operating system. Debian based derivates a close second.
             </Tool>
             <Tool title="PHP">
               My language of choice.
